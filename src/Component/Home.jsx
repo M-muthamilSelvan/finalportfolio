@@ -2,7 +2,7 @@ import React from 'react';
 import { FaPhoneAlt, FaEnvelope } from 'react-icons/fa';
 import { FaLocationDot } from 'react-icons/fa6';
 import myphoto from '../assets/photo.jpg';
-import resume from '../assets/resume.pdf'; 
+import resume from '../assets/MuthamilSelvan_Resume.pdf'; 
 
 const Home = () => {
   return (
